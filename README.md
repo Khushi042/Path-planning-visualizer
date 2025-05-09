@@ -24,29 +24,6 @@ JavaScript
 
 HTML5 Canvas
 
-📦 Installation
-Clone the repository
-
-bash
-Copy code
-git clone https://github.com/your-username/path-planning-visualizer.git
-cd path-planning-visualizer
-Install dependencies
-
-bash
-Copy code
-npm install
-Run the development server
-
-bash
-Copy code
-npm run dev   # for Vite
-# or
-npm start     # if using Create React App
-Open in browser
-
-Visit http://localhost:5173 or http://localhost:3000 depending on your setup.
-
 🧠 How to Use
 Select an algorithm from the dropdown (A*, Dijkstra, BFS, DFS).
 
